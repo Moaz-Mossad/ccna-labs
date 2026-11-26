@@ -4,8 +4,6 @@ Cisco Packet Tracer labs I built while studying for the CCNA. Each lab has a top
 
 ## Labs
 
-| File | Topic | What it covers |
-
 1- configuration lab -> basic device configuration
 
 - Set hostnames on the routers and switches
